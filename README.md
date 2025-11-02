@@ -1,5 +1,5 @@
 **Pratham Ghaywat**  
-14-year-old student that likes coding, AI/ML Agents, and building open-source tools. Skilled in Python and NextJS. Creator of **Audiowiz**, a Python package for audio processing(it's archived now🥲:).  
+
 - 📹 YouTube: [UltimateHobbyCoder](https://www.youtube.com/@UltimateHobbyCoder)  
 
 
